@@ -1,0 +1,4 @@
+Definir en el archivo de constantes la llave para los jwt (path: src/helpers/constants.ts)
+
+// JWT Token
+constants("llave", "miclaveultrasecreta123*");

@@ -1,0 +1,10 @@
+https://asfo.medium.com/autenticando-un-api-rest-con-nodejs-y-jwt-json-web-tokens-5f3674aba50e
+
+https://www.bezkoder.com/node-js-jwt-authentication-mysql/
+
+https://www.digitalocean.com/community/tutorials/nodejs-jwt-expressjs
+
+
+
+
+https://stackabuse.com/authentication-and-authorization-with-jwts-in-express-js/

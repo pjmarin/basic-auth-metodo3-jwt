@@ -1,0 +1,7 @@
+https://jasonwatmore.com/post/2020/06/17/nodejs-mongodb-api-jwt-authentication-with-refresh-tokens
+
+https://www.bezkoder.com/jwt-refresh-token-node-js/
+
+https://codeforgeek.com/refresh-token-jwt-nodejs-authentication/
+
+https://javascript.plainenglish.io/expressjs-api-with-secure-jwt-access-and-refresh-token-64c5478be2c0
